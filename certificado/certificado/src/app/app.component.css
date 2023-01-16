@@ -1,0 +1,23 @@
+.title{
+    color:brown;
+    width: 50%;
+    margin-left: 450px;
+    }
+
+.titulos{
+    color:rgb(2, 114, 252);
+    width: 40%;
+    margin-left: 1px;
+}
+
+.body{
+padding: 5px;
+width:1500px;
+height: 1500 px;
+text-align: justify;
+}
+
+.img{
+  height: 450px;
+  width: 550px;
+}
